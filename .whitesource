@@ -2,6 +2,7 @@
 ####    WhiteSource Integration configuration file    ####
 ##########################################################
 
+
 # Configuration #
 #---------------#
 ws.repo.scan=true
